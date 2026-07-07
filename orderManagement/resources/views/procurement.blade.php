@@ -362,7 +362,6 @@
                     <p>Current purchase orders with uniform spacing and alignment.</p>
                 </div>
                 <div class="header-actions">
-                    <a class="btn btn-soft" href="#sidenotif">NOTIFICATIONS</a>
                     <a class="btn btn-primary" href="#createpo-modal">CREATE PO</a>
                 </div>
             </div>

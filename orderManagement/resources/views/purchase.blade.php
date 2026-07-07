@@ -13,7 +13,6 @@
                 <p>Use the same visual system across the procurement flow.</p>
             </div>
             <div class="action-row">
-                <a class="btn btn-soft" href="{{ route('procurement.notifications') }}">Side Notifications</a>
                 <a class="btn btn-primary" href="{{ route('procurement.create') }}">+ Create PO</a>
             </div>
         </div>
